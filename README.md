@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ **Tech Stack & Tools**
+## ░▒▓ Tech Stack & Tools ▓▒░
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -25,15 +25,15 @@
 
 ---
 
-## 🌟 **What I Do**
+## ➤ What I Do
 
-🚀 **Machine Learning Engineer & MLOps Specialist**  
+✦ **Machine Learning Engineer & MLOps Specialist**  
 I don’t just build models - I build **end-to-end AI systems** that are:  
 - **Production-Ready:** Scalable, explainable, and with minimal operational overhead.  
 - **Full-Stack:** From data engineering to ML deployment.  
 - **Business-Aligned:** Solving real-world problems with purpose.  
 
-🛠️ **Key Skills & Expertise:**  
+✦ **Key Skills & Expertise:**  
 - **Languages & Frameworks:** Python, FastAPI, Streamlit, LangChain, PyTorch Geometric, TensorFlow, scikit-learn  
 - **Cloud Platforms:** AWS (SageMaker, Lambda, Bedrock), GCP  
 - **MLOps Tooling:** Docker, Kubernetes, MLflow, Airflow, GitHub Actions  
@@ -41,51 +41,50 @@ I don’t just build models - I build **end-to-end AI systems** that are:
 
 ---
 
-## 💡 **My Favorite Projects**
+## ➤ My Favorite Projects
 
-### 🗞️ [TruthLens](https://github.com/ign24/TruthLens)  
+▣ **[TruthLens](https://github.com/ign24/TruthLens)**  
 A web platform that detects emotional tone and bias in the media using GPT-4 and vision models.  
-> **Why it matters:** Built to help people think critically - not just consume information.
+→ **Why it matters:** Built to help people think critically - not just consume information.
 
-### 🔗 [TokenWatch](https://github.com/ign24/TokenWatch)  
+▣ **[TokenWatch](https://github.com/ign24/TokenWatch)**  
 A graph-based system for detecting fraud on the Ethereum network using GNNs and PyTorch Geometric.  
-> **Why it matters:** Flags suspicious wallets and anomalous transactions through graph intelligence.
+→ **Why it matters:** Flags suspicious wallets and anomalous transactions through graph intelligence.
 
-### 🌐 [TribuAI](https://github.com/ign24/TribuAI)  
+▣ **[TribuAI](https://github.com/ign24/TribuAI)**  
 A cultural intelligence engine powered by LangGraph, GPT-4, and the Qloo API.  
-> **Why it matters:** Creates smart user profiles and brand recommendations based on cultural data.
+→ **Why it matters:** Creates smart user profiles and brand recommendations based on cultural data.
 
 ---
 
-## 📜 **Certifications & Background**
+## ➤ Certifications & Background
 
-🎓 A unique mix of **Sound Engineering** and **Computer Engineering** training gives me both technical and creative perspectives.  
-🔖 **Selected Certifications:**  
-- 🟡 AWS Machine Learning - Specialty *(in progress)*  
-- ✅ IBM Machine Learning Professional Certificate  
-- ✅ Google Data Analytics Professional Certificate  
-- ✅ Machine Learning Engineering for Production (MLOps) - DeepLearning.AI  
+✦ **Certifications:**  
+- AWS Machine Learning - Specialty *(in progress)*  
+- IBM Machine Learning Professional Certificate  
+- Google Data Analytics Professional Certificate  
+- Machine Learning Engineering for Production (MLOps) - DeepLearning.AI  
 
-🎯 **Interests:**  
+✦ **Background:**  
+I combine a unique mix of **Sound Engineering** and **Computer Engineering** to bring both technical and creative perspectives.  
 I’m fascinated by how people interpret signals - from media narratives to autonomous agents.  
-I combine engineering expertise with a critical lens on **language**, **perception**, and **systems** to build AI that does more than just automate: **it empowers.**
 
 ---
 
-## 📫 **Let’s Connect**
+## ➤ Let’s Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ignaciozuniganavarro/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+    <b>LinkedIn</b>: linkedin.com/in/ignaciozuniganavarro/
+  </a>  
+  <br>
   <a href="https://github.com/ign24">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/-Portfolio-gray?style=for-the-badge" alt="Portfolio (Coming Soon)"/>
-  </a>
+    <b>GitHub</b>: github.com/ign24
+  </a>  
+  <br>
+  <b>Portfolio</b>: Coming Soon!
 </p>
 
 ---
 
-> 💡 *"I design intelligent, scalable systems with real-world impact. If you're building something ambitious - let’s talk!"*
+> ✦ "I design intelligent, scalable systems with real-world impact. If you're building something ambitious - let’s talk!"
