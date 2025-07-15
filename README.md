@@ -57,8 +57,6 @@ A cultural intelligence engine powered by LangGraph, GPT-4, and the Qloo API.
 
 ---
 
----
-
 ## ➤ Certifications & Background
 
 ✦ **Certifications:**
