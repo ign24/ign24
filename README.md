@@ -57,17 +57,29 @@ A cultural intelligence engine powered by LangGraph, GPT-4, and the Qloo API.
 
 ---
 
+---
+
 ## ➤ Certifications & Background
 
-✦ **Certifications:**  
-- AWS Machine Learning - Specialty *(in progress)*  
-- IBM Machine Learning Professional Certificate  
-- Google Data Analytics Professional Certificate  
-- Machine Learning Engineering for Production (MLOps) - DeepLearning.AI  
+✦ **Certifications:**
+
+| Certificate | Badge | Description |
+|-------------|-------|-------------|
+| **AWS Machine Learning – Specialty** *(in progress)* | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) | Professional-level certification focused on scalable ML solutions with minimal operational overhead. Covers the full production lifecycle using AWS-native services. |
+| **Machine Learning Engineering for Production (MLOps)** | ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-000000?style=for-the-badge&logo=coursera&logoColor=white) | End-to-end MLOps specialization covering data lifecycle, model deployment, monitoring, and automated retraining. Built on real-world production practices. |
+| **Deploying ML Models in Production** | ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-000000?style=for-the-badge&logo=coursera&logoColor=white) | Practical course on scalable deployment of ML models using TensorFlow and cloud-native infrastructure. |
+| **ML Data Lifecycle in Production** | ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-000000?style=for-the-badge&logo=coursera&logoColor=white) | Teaches how to manage data pipelines, feature stores, and automated data validation in real-world ML systems. |
+| **Machine Learning in Production** | ![DeepLearning.AI](https://img.shields.io/badge/DeepLearning.AI-000000?style=for-the-badge&logo=coursera&logoColor=white) | Covers production challenges like distribution shift, model decay, and performance monitoring. |
+| **IBM Machine Learning Professional Certificate** | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | Supervised and unsupervised learning, deep learning, reinforcement learning, time series, and survival analysis. [Verify](https://coursera.org/verify/WKVPWQ59MVDU) |
+| **Machine Learning with Apache Spark** | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | Distributed ML pipelines using Spark MLlib. [Verify](https://coursera.org/verify/IK10GY1PK0IB) |
+| **Introduction to Data Engineering** | ![IBM](https://img.shields.io/badge/IBM-054ADA?style=for-the-badge&logo=ibm&logoColor=white) | Core data engineering tools: Airflow, ETL, data lakes, and warehouses. [Verify](https://coursera.org/verify/A78MAVXOL29M) |
+| **Google Data Analytics Certificate** | ![Google](https://img.shields.io/badge/Google%20Data%20Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white) | SQL, R, Tableau, and spreadsheets for end-to-end data workflows. [Verify](https://coursera.org/verify/R2W7BHEJ3ASW) |
+| **Python Specialization** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white) | 56-hour comprehensive course covering Python programming, from fundamentals to OOP, data structures, and practical projects. |
+| **MATLAB – From Basic to Advanced** | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white) | 7.5-hour hands-on course on MATLAB syntax, functions, data visualization, and applied math operations. |
 
 ✦ **Background:**  
-I combine a unique mix of **Sound Engineering** and **Computer Engineering** to bring both technical and creative perspectives.  
-I’m fascinated by how people interpret signals - from media narratives to autonomous agents.  
+I combine a unique mix of **Sound Engineering** and **Computer Engineering**, bringing both technical and creative perspectives. I'm passionate about how humans interpret signals—from media narratives to autonomous agents.
+
 
 ---
 
