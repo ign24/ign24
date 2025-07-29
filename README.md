@@ -92,7 +92,6 @@ I combine a unique mix of **Sound Engineering** and **Computer Engineering**, br
     <b>GitHub</b>: github.com/ign24
   </a>  
   <br>
-  <b>Portfolio</b>: Coming Soon!
 </p>
 
 ---
